@@ -1,0 +1,57 @@
+.view-profile-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .user-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .user-details img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .user-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .user-details p {
+    margin: 5px 0;
+    font-size: large;
+    /* font-weight: 100; */
+  }
+  
+  /* .user-details a {
+    color: blue;
+    text-decoration: underline;
+  } */
+  
+  .question{
+    /* border: 3px solid black !important; */
+    font-size:x-large;
+    width: 60%;
+  }
+
+  .link{
+    color: none;
+    text-decoration: none;
+  }
+
+  h3.question{
+    width: 100%;
+    /* margin: auto; */
+  }
+  .posts{
+    font-size: xx-large !important;
+    float: left !important;
+  }

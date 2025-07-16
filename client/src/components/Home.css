@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+  }
+
+.bnav{
+  margin-top: 90px;
+  height: max-content;
+  padding: 10px;
+  box-sizing: border-box;
+  color: #4CAF50;
+}
+.body{
+  background-color: gray;
+  color: green;
+}
+
+  

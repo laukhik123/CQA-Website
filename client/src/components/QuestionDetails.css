@@ -1,0 +1,117 @@
+button.deleteQuestion {
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color:  #ff6666;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button.deleteAnswer {
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color:  #ff6650;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button.EditQuestion{
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button.EditAnswer {
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button.edit-answer-button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button.post-answer-button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button.btn {
+  margin-right: 10px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* .question-details-container button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    background-color:  #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  } */
+  
+  /* .question-details-container button:hover {
+    background-color: #ff6666;
+  } */
+  button.EditAnswer:hover {
+    background-color: #4CAF50;
+  }
+  button.EditQuestion:hover {
+    background-color: #4CAF50;
+  }
+
+.Score{
+  font-weight: 600;
+}
+.Answers{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.container {
+  border: 1px solid white ;
+  /* padding-top: 0.5%; */
+  /* margin-left: 88%; */
+  width: 1500px !important;
+  font-size: small;
+  ;
+  /* float: right; */
+  /* margin-bottom: 10%; */
+
+}
+.btn-primary2 {
+  background-color: #4CAF50;
+  border-color: #4CAF50;
+  color: white;
+  width: auto;
+  margin:auto;
+  ;
+}
