@@ -1,8 +1,8 @@
-# Community Q&A Website 💬🧠
+# Community Q&A Website 
 
 A full-stack web platform that enables users to ask questions and receive answers from the community — inspired by platforms like Stack Overflow.
 
-## 🚀 Features
+##  Features
 
 - Post questions and answer others in a dynamic feed
 - User authentication and authorization
@@ -10,19 +10,19 @@ A full-stack web platform that enables users to ask questions and receive answer
 - Responsive frontend and RESTful backend
 - User profile and question reputation system (optional)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Frontend: ReactJS
 - Backend: NodeJS, ExpressJS
 - Database: PostgreSQL
 - Authentication: JWT or Passport.js (based on your implementation)
 
-## 📷 Screenshots
+##  Screenshots
 
 <!-- Add screenshots for homepage, question detail, login/signup pages -->
 <!-- Example: ![Q&A Feed](./screenshots/qa_feed.png) -->
 
-## 📦 How to Run
+##  How to Run
 
 ```bash
 # Backend
